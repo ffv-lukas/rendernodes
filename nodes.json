@@ -1,5 +1,5 @@
 [
-  { "id": 1,  "name": "Node 01", "benchmark": 43  },
+  { "id": 1,  "name": "Node 01x", "benchmark": 43  },
   { "id": 2,  "name": "Node 02", "benchmark": 92  },
   { "id": 3,  "name": "Node 03", "benchmark": 74  },
   { "id": 4,  "name": "Node 04", "benchmark": 166 },
