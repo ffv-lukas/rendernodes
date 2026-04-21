@@ -15,5 +15,6 @@
   { "id": 14, "name": "Render 06", "benchmark": 56  },
   { "id": 15, "name": "Render 07", "benchmark": 58  },
   { "id": 16, "name": "Render 08", "benchmark": 55  },
-  { "id": 17, "name": "Johannes", "benchmark": 53  }
+  { "id": 17, "name": "Johannes", "benchmark": 53  },
+  { "id": 18, "name": "Johannes 2", "benchmark": 53  }
 ]
